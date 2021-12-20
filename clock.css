@@ -1,0 +1,14 @@
+<style>
+div {
+  background-image: url('clock_bg.jpeg');
+  background-size: 1200px 900px;
+  background: height 50%; ;
+  background-repeat: no-repeat;
+  
+}
+</style>
+<h1 style="color: white;">this is js project by Badree prasad</h1>
+<h1 class="display-4"style="color: white;">Current time Is(IND): <span id="time"></span></h1>
+<p class="lead" style="color: white;">We have got you covered. This is a simple hero unit, a simple jumbotron-style component for
+    calling extra attention to featured content or information.</p>
+    <p style="color: white;">We are here to show you the time for different countries</p>
